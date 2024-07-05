@@ -1,4 +1,4 @@
-# summarizationfinal
+# Final summarization tool
 An AI-power transcription -> diarization -> summarization workflow
 
 How to run:\
