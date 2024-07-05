@@ -7,4 +7,5 @@ How to run:\
 `source venv/bin/activate`
 1. Install packages:\
 `pip install fastapi uvicorn pydantic pydub python-dotenv openai pyannote.audio torch speechbrain==1.0.0 ffmpeg openai-whisper`
-2. After navigating to your directory, run app.py via `python3 app.py`
+2. After navigating to your directory, run app.py via `python3 app.py`. 
+3. Upload your audio, make manual edits, recieve your summary!
