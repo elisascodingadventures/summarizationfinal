@@ -1,5 +1,5 @@
 # Final summarization tool
-An AI-power transcription -> diarization -> summarization workflow
+An AI-powered transcription -> diarization -> summarization workflow
 
 How to run:\
 0 - (Optional) Set up and activate virtual environment:\
